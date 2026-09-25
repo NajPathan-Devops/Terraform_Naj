@@ -1,0 +1,12 @@
+{
+  "name": "terraform-part3-express",
+  "version": "1.0.0",
+  "description": "Dockerized Express application for Terraform Part 3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
